@@ -25,7 +25,7 @@ Checklist:
 - [x] Documentei de alguma forma o que foi feito para auxiliar próximos devs (em código, insomnia, documentos auxiliares)
 - [x] Minhas mudanças não geram nenhum motivo de alerta ou possível quebra de outras funcionalidades
 
-Ajustes :
+# Ajustes :
 <img width="730" alt="image" src="../img/antes.png">
 <br/>
 <img width="730" alt="image" src="../img/depois.png">
