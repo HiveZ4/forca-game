@@ -27,5 +27,5 @@ Checklist:
 
 Ajustes :
 <img width="730" alt="image" src="../img/antes.png">
-
+<br/>
 <img width="730" alt="image" src="../img/depois.png">
